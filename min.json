@@ -1,0 +1,461 @@
+{
+    "payload": {
+        "item": {
+            "id": "56c3bbe45d2f0202da32e93e",
+            "items_in_set": [
+                {
+                    "id": "56c3bbd55d2f0202da32e93b",
+                    "trading_tax": 2000,
+                    "mastery_level": 0,
+                    "set_root": false,
+                    "thumb": "items/images/en/thumbs/saryn_prime_blueprint.394094bef0383f954bd38d622bb075e5.128x128.png",
+                    "quantity_for_set": 1,
+                    "icon": "items/images/en/saryn_prime_blueprint.394094bef0383f954bd38d622bb075e5.png",
+                    "url_name": "saryn_prime_blueprint",
+                    "icon_format": "port",
+                    "sub_icon": "sub_icons/blueprint_128x128.png",
+                    "ducats": 65,
+                    "tags": [
+                        "blueprint",
+                        "prime",
+                        "warframe"
+                    ],
+                    "en": {
+                        "item_name": "Saryn Prime Blueprint",
+                        "description": "A golden blossom conceals deadly nectar. Featuring altered mod polarities for greater customization.",
+                        "wiki_link": "https://warframe.fandom.com/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "ru": {
+                        "item_name": "Сарина Прайм (Чертеж)",
+                        "description": "Золотой бутон таит смертельный нектар. Обладает дополнительными полярностями слотов для более тонкой настройки.",
+                        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B0%D1%80%D0%B8%D0%BD%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+                        "drop": []
+                    },
+                    "ko": {
+                        "item_name": "새린 프라임 설계도",
+                        "description": "금빛의 아름다운 꽃송이가 그 안에 든 치명적인 독의 넥타르를 감추고 있습니다. 더욱 다채로운 특성화를 위한 추가적인 모드 극성이 포함되어 있습니다.",
+                        "wiki_link": "https://warframe.fandom.com/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "fr": {
+                        "item_name": "Saryn Prime (Schéma)",
+                        "description": "Une fleur dorée cache en elle un nectar des plus mortels. Possède des polarités de mod altérées pour une meilleure personnalisation.",
+                        "wiki_link": "https://warframe.fandom.com/fr/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "sv": {
+                        "item_name": "Saryn Prime Blueprint",
+                        "description": "A golden blossom conceals deadly nectar. Featuring altered mod polarities for greater customization.",
+                        "wiki_link": "https://warframe.fandom.com/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "de": {
+                        "item_name": "Saryn Prime Blaupause",
+                        "description": "Eine goldene Blüte, die tödlichen Nektar verbirgt. Bietet veränderte Mod-Polaritäten für noch mehr Anpassungsmöglichkeiten.",
+                        "wiki_link": "https://warframe.fandom.com/de/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "zh-hant": {
+                        "item_name": "Saryn Prime 藍圖",
+                        "description": "一朵隱藏著致命花蜜的金花。 擁有改造過的 MOD 極性槽，可提供更優秀的自訂性。",
+                        "wiki_link": "https://warframe.huijiwiki.com/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "zh-hans": {
+                        "item_name": "Saryn Prime 蓝图",
+                        "description": "一朵隐藏着致命花蜜的金花。拥有改造过的 Mod 极性槽，可提供更优秀的自定义空间。",
+                        "wiki_link": "https://warframe.huijiwiki.com/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "pt": {
+                        "item_name": "Saryn Prime (Diagrama)",
+                        "description": "Uma flor preciosa esconde um néctar letal. Inclusas polaridades alteradas de mods para uma maior personalização.",
+                        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "es": {
+                        "item_name": "Plano de Saryn Prime",
+                        "description": "Una flor dorada oculta un néctar mortal. Cuenta con polaridades de mod alteradas para una mayor personalización.",
+                        "wiki_link": "https://warframe.fandom.com/es/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "pl": {
+                        "item_name": "Saryn Prime - Schemat",
+                        "description": "Złoty pąk skrywający zabójczy nektar. Zawiera zmienione polaryzacje, dla większych możliwości personalizacji.",
+                        "wiki_link": "https://warframe.fandom.com/pl/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "cs": {
+                        "item_name": "Saryn Prime Blueprint",
+                        "description": "A golden blossom conceals deadly nectar. Featuring altered mod polarities for greater customization.",
+                        "wiki_link": "https://warframe.fandom.com/wiki/Saryn_Prime",
+                        "drop": []
+                    }
+                },
+                {
+                    "id": "56c3bbdb5d2f0202da32e93c",
+                    "trading_tax": 2000,
+                    "mastery_level": 0,
+                    "set_root": false,
+                    "thumb": "items/images/en/thumbs/saryn_prime_neuroptics.394094bef0383f954bd38d622bb075e5.128x128.png",
+                    "quantity_for_set": 1,
+                    "icon": "items/images/en/saryn_prime_neuroptics.394094bef0383f954bd38d622bb075e5.png",
+                    "url_name": "saryn_prime_neuroptics",
+                    "icon_format": "port",
+                    "sub_icon": "sub_icons/warframe/prime_helmet_128x128.png",
+                    "ducats": 45,
+                    "tags": [
+                        "component",
+                        "prime",
+                        "warframe",
+                        "blueprint"
+                    ],
+                    "en": {
+                        "item_name": "Saryn Prime Neuroptics Blueprint",
+                        "description": "Neuroptics component of the Saryn Prime Warframe.",
+                        "wiki_link": "https://warframe.fandom.com/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "ru": {
+                        "item_name": "Сарина Прайм: Нейрооптика (Чертеж)",
+                        "description": "Компонент варфрейма Сарина Прайм: нейрооптика.",
+                        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B0%D1%80%D0%B8%D0%BD%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+                        "drop": []
+                    },
+                    "ko": {
+                        "item_name": "새린 프라임 뉴로옵틱스 설계도",
+                        "description": "새린 프라임 워프레임의 뉴로옵틱스 부분입니다.",
+                        "wiki_link": "https://warframe.fandom.com/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "fr": {
+                        "item_name": "Saryn Prime - Neuroptiques (Schéma)",
+                        "description": "Le composant Neuroptiques de la Warframe Saryn Prime.",
+                        "wiki_link": "https://warframe.fandom.com/fr/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "sv": {
+                        "item_name": "Saryn Prime Neuroptics Blueprint",
+                        "description": "Neuroptics component of the Saryn Prime Warframe.",
+                        "wiki_link": "https://warframe.fandom.com/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "de": {
+                        "item_name": "Saryn Prime: Neuroptik Blaupause",
+                        "description": "Neuroptik-Komponente für den Saryn Prime Warframe.",
+                        "wiki_link": "https://warframe.fandom.com/de/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "zh-hant": {
+                        "item_name": "Saryn Prime 頭部神經光元 藍圖",
+                        "description": "Saryn Prime Warframe 的頭部神經光元組件。",
+                        "wiki_link": "https://warframe.huijiwiki.com/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "zh-hans": {
+                        "item_name": "Saryn Prime 头部神经光元 蓝图",
+                        "description": "Saryn Prime 战甲的头部神经光元组件。",
+                        "wiki_link": "https://warframe.huijiwiki.com/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "pt": {
+                        "item_name": "Saryn Prime: Neurovisor (Diagrama)",
+                        "description": "Neurovisor componente do Warframe Saryn Prime.",
+                        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "es": {
+                        "item_name": "Plano de Neurópticas De Saryn Prime",
+                        "description": "Componente de las neurópticas del warframe Saryn Prime.",
+                        "wiki_link": "https://warframe.fandom.com/es/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "pl": {
+                        "item_name": "Saryn Prime: Neurooptyka - Schemat",
+                        "description": "Neurooptyka dla Warframe Saryn Prime.",
+                        "wiki_link": "https://warframe.fandom.com/pl/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "cs": {
+                        "item_name": "Saryn Prime Neuroptics Blueprint",
+                        "description": "Neuroptics component of the Saryn Prime Warframe.",
+                        "wiki_link": "https://warframe.fandom.com/wiki/Saryn_Prime",
+                        "drop": []
+                    }
+                },
+                {
+                    "id": "56c3bbe05d2f0202da32e93d",
+                    "trading_tax": 2000,
+                    "mastery_level": 0,
+                    "set_root": false,
+                    "thumb": "items/images/en/thumbs/saryn_prime_systems.394094bef0383f954bd38d622bb075e5.128x128.png",
+                    "quantity_for_set": 1,
+                    "icon": "items/images/en/saryn_prime_systems.394094bef0383f954bd38d622bb075e5.png",
+                    "url_name": "saryn_prime_systems",
+                    "icon_format": "port",
+                    "sub_icon": "sub_icons/warframe/prime_systems_128x128.png",
+                    "ducats": 15,
+                    "tags": [
+                        "component",
+                        "prime",
+                        "warframe",
+                        "blueprint"
+                    ],
+                    "en": {
+                        "item_name": "Saryn Prime Systems Blueprint",
+                        "description": "Systems component of the Saryn Prime Warframe.",
+                        "wiki_link": "https://warframe.fandom.com/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "ru": {
+                        "item_name": "Сарина Прайм: Система (Чертеж)",
+                        "description": "Компонент варфрейма Сарина Прайм: Система.",
+                        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B0%D1%80%D0%B8%D0%BD%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+                        "drop": []
+                    },
+                    "ko": {
+                        "item_name": "새린 프라임 시스템 설계도",
+                        "description": "새린 프라임 워프레임의 시스템 부분입니다.",
+                        "wiki_link": "https://warframe.fandom.com/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "fr": {
+                        "item_name": "Saryn Prime - Systèmes (Schéma)",
+                        "description": "Le composant Systèmes de la Warframe Saryn Prime.",
+                        "wiki_link": "https://warframe.fandom.com/fr/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "sv": {
+                        "item_name": "Saryn Prime Systems Blueprint",
+                        "description": "Systems component of the Saryn Prime Warframe.",
+                        "wiki_link": "https://warframe.fandom.com/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "de": {
+                        "item_name": "Saryn Prime: Systeme Blaupause",
+                        "description": "Systeme-Komponente für den Saryn Prime Warframe.",
+                        "wiki_link": "https://warframe.fandom.com/de/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "zh-hant": {
+                        "item_name": "Saryn Prime 系統 藍圖",
+                        "description": "Saryn Prime Warframe 的系統組件。",
+                        "wiki_link": "https://warframe.huijiwiki.com/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "zh-hans": {
+                        "item_name": "Saryn Prime 系统 蓝图",
+                        "description": "Saryn Prime 战甲的系统组件。",
+                        "wiki_link": "https://warframe.huijiwiki.com/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "pt": {
+                        "item_name": "Saryn Prime: Sistemas (Diagrama)",
+                        "description": "Sistemas componentes do Warframe Saryn Prime.",
+                        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "es": {
+                        "item_name": "Plano de Sistemas De Saryn Prime",
+                        "description": "Componente de los sistemas del warframe Saryn Prime.",
+                        "wiki_link": "https://warframe.fandom.com/es/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "pl": {
+                        "item_name": "Saryn Prime: Systemy - Schemat",
+                        "description": "Systemy dla Warframe Saryn Prime.",
+                        "wiki_link": "https://warframe.fandom.com/pl/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "cs": {
+                        "item_name": "Saryn Prime Systems Blueprint",
+                        "description": "Systems component of the Saryn Prime Warframe.",
+                        "wiki_link": "https://warframe.fandom.com/wiki/Saryn_Prime",
+                        "drop": []
+                    }
+                },
+                {
+                    "id": "56c3bbe45d2f0202da32e93e",
+                    "trading_tax": 2000,
+                    "mastery_level": 0,
+                    "set_root": false,
+                    "thumb": "items/images/en/thumbs/saryn_prime_chassis.394094bef0383f954bd38d622bb075e5.128x128.png",
+                    "quantity_for_set": 1,
+                    "icon": "items/images/en/saryn_prime_chassis.394094bef0383f954bd38d622bb075e5.png",
+                    "url_name": "saryn_prime_chassis",
+                    "icon_format": "port",
+                    "sub_icon": "sub_icons/warframe/prime_chassis_128x128.png",
+                    "ducats": 100,
+                    "tags": [
+                        "component",
+                        "prime",
+                        "warframe",
+                        "blueprint"
+                    ],
+                    "en": {
+                        "item_name": "Saryn Prime Chassis Blueprint",
+                        "description": "Chassis component of the Saryn Prime Warframe.",
+                        "wiki_link": "https://warframe.fandom.com/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "ru": {
+                        "item_name": "Сарина Прайм: Каркас (Чертеж)",
+                        "description": "Компонент варфрейма Сарина Прайм: Каркас.",
+                        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B0%D1%80%D0%B8%D0%BD%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+                        "drop": []
+                    },
+                    "ko": {
+                        "item_name": "새린 프라임 섀시 설계도",
+                        "description": "새린 프라임 워프레임의 섀시 부분입니다.",
+                        "wiki_link": "https://warframe.fandom.com/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "fr": {
+                        "item_name": "Saryn Prime - Châssis (Schéma)",
+                        "description": "Le composant Châssis de la Warframe Saryn Prime.",
+                        "wiki_link": "https://warframe.fandom.com/fr/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "sv": {
+                        "item_name": "Saryn Prime Chassis Blueprint",
+                        "description": "Chassis component of the Saryn Prime Warframe.",
+                        "wiki_link": "https://warframe.fandom.com/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "de": {
+                        "item_name": "Saryn Prime: Chassis Blaupause",
+                        "description": "Chassis-Komponente für den Saryn Prime Warframe.",
+                        "wiki_link": "https://warframe.fandom.com/de/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "zh-hant": {
+                        "item_name": "Saryn Prime 機體 藍圖",
+                        "description": "Saryn Prime Warframe 的機體組件。",
+                        "wiki_link": "https://warframe.huijiwiki.com/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "zh-hans": {
+                        "item_name": "Saryn Prime 机体 蓝图",
+                        "description": "Saryn Prime 战甲的机体组件。",
+                        "wiki_link": "https://warframe.huijiwiki.com/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "pt": {
+                        "item_name": "Saryn Prime: Chassi (Diagrama)",
+                        "description": "Chassi componente do Warframe Saryn Prime.",
+                        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "es": {
+                        "item_name": "Plano de Chasis De Saryn Prime",
+                        "description": "Componente del chasis del warframe Saryn Prime.",
+                        "wiki_link": "https://warframe.fandom.com/es/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "pl": {
+                        "item_name": "Saryn Prime: Powłoka - Schemat",
+                        "description": "Powłoka dla Warframe Saryn Prime.",
+                        "wiki_link": "https://warframe.fandom.com/pl/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "cs": {
+                        "item_name": "Saryn Prime Chassis Blueprint",
+                        "description": "Chassis component of the Saryn Prime Warframe.",
+                        "wiki_link": "https://warframe.fandom.com/wiki/Saryn_Prime",
+                        "drop": []
+                    }
+                },
+                {
+                    "id": "56c3bbea5d2f0202da32e93f",
+                    "trading_tax": 8000,
+                    "mastery_level": 0,
+                    "set_root": true,
+                    "thumb": "items/images/en/thumbs/saryn_prime_set.394094bef0383f954bd38d622bb075e5.128x128.png",
+                    "icon": "items/images/en/saryn_prime_set.394094bef0383f954bd38d622bb075e5.png",
+                    "url_name": "saryn_prime_set",
+                    "icon_format": "port",
+                    "sub_icon": null,
+                    "ducats": 225,
+                    "tags": [
+                        "set",
+                        "prime",
+                        "warframe"
+                    ],
+                    "en": {
+                        "item_name": "Saryn Prime Set",
+                        "description": "A golden blossom conceals deadly nectar. Featuring altered mod polarities for greater customization.",
+                        "wiki_link": "https://warframe.fandom.com/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "ru": {
+                        "item_name": "Сарина Прайм: Комплект",
+                        "description": "Золотой бутон таит смертельный нектар. Обладает дополнительными полярностями слотов для более тонкой настройки.",
+                        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B0%D1%80%D0%B8%D0%BD%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+                        "drop": []
+                    },
+                    "ko": {
+                        "item_name": "새린 프라임 세트",
+                        "description": "금빛의 아름다운 꽃송이가 그 안에 든 치명적인 독의 넥타르를 감추고 있습니다. 더욱 다채로운 특성화를 위한 추가적인 모드 극성이 포함되어 있습니다.",
+                        "wiki_link": "https://warframe.fandom.com/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "fr": {
+                        "item_name": "Saryn Prime - Set",
+                        "description": "Une fleur dorée cache en elle un nectar des plus mortels. Possède des polarités de mod altérées pour une meilleure personnalisation.",
+                        "wiki_link": "https://warframe.fandom.com/fr/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "sv": {
+                        "item_name": "Saryn Prime Set",
+                        "description": "A golden blossom conceals deadly nectar. Featuring altered mod polarities for greater customization.",
+                        "wiki_link": "https://warframe.fandom.com/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "de": {
+                        "item_name": "Saryn Prime: Set",
+                        "description": "Eine goldene Blüte, die tödlichen Nektar verbirgt. Bietet veränderte Mod-Polaritäten für noch mehr Anpassungsmöglichkeiten.",
+                        "wiki_link": "https://warframe.fandom.com/de/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "zh-hant": {
+                        "item_name": "Saryn Prime 一套",
+                        "description": "一朵隱藏著致命花蜜的金花。 擁有改造過的 MOD 極性槽，可提供更優秀的自訂性。",
+                        "wiki_link": "https://warframe.huijiwiki.com/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "zh-hans": {
+                        "item_name": "Saryn Prime 一套",
+                        "description": "一朵隐藏着致命花蜜的金花。拥有改造过的 Mod 极性槽，可提供更优秀的自定义空间。",
+                        "wiki_link": "https://warframe.huijiwiki.com/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "pt": {
+                        "item_name": "Saryn Prime: Conjunto",
+                        "description": "Uma flor preciosa esconde um néctar letal. Inclusas polaridades alteradas de mods para uma maior personalização.",
+                        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "es": {
+                        "item_name": "Set de Saryn Prime",
+                        "description": "Una flor dorada oculta un néctar mortal. Cuenta con polaridades de mod alteradas para una mayor personalización.",
+                        "wiki_link": "https://warframe.fandom.com/es/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "pl": {
+                        "item_name": "Saryn Prime: Zestaw",
+                        "description": "Złoty pąk skrywający zabójczy nektar. Zawiera zmienione polaryzacje, dla większych możliwości personalizacji.",
+                        "wiki_link": "https://warframe.fandom.com/pl/wiki/Saryn_Prime",
+                        "drop": []
+                    },
+                    "cs": {
+                        "item_name": "Saryn Prime Set",
+                        "description": "A golden blossom conceals deadly nectar. Featuring altered mod polarities for greater customization.",
+                        "wiki_link": "https://warframe.fandom.com/wiki/Saryn_Prime",
+                        "drop": []
+                    }
+                }
+            ]
+        }
+    }
+}
